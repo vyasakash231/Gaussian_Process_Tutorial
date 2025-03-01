@@ -1,3 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
 class GaussianProcess:
     """
     Gaussian processes is a way to define distributions over functions of the form f:X → R, where X is of size (NxD). 
